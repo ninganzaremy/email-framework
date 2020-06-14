@@ -4,7 +4,7 @@
   "description": "Super Cool Framework",
   "main": "index.js",
   "dependencies": {
-    "axios": "^0.16.1",
+    "axios": "^0.18.1",
     "babel-core": "^6.24.1",
     "babel-loader": "^6.4.1",
     "babel-polyfill": "^6.0.16",
